@@ -73,13 +73,6 @@ Without proper reconnaissance, a penetration tester may overlook important infor
 
 All practical testing was conducted within an authorised learning environment or against systems for which permission was obtained.
 
-The permission letter and sample penetration testing report are included in the `authorization/` and `reports/` directories, respectively, where appropriate.
-
-## Supporting Documents
-
-- Penetration Testing Permission Letter
-- Sample Penetration Testing Report
-
 ## Skills Practised
 
 - Information Gathering
@@ -93,7 +86,7 @@ The permission letter and sample penetration testing report are included in the 
 
 ## Learning Progress
 
-**Internship:** Networkwalks
+**Internship:** Networkwalks Batch B084
 
 **Week:** 2
 
@@ -104,3 +97,8 @@ The permission letter and sample penetration testing report are included in the 
 This repository represents my practical learning progress as I continue developing my cybersecurity and penetration testing skills.
 
 *Learning, practising and improving one step at a time.*
+
+
+**AUTHOR:**
+
+SAMUEL ARIYO
